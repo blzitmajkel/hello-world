@@ -1,6 +1,8 @@
 <html>
 <header><title>This is title</title></header>
 <body>
-Hello world
+<script type="text/javascript">
+  alert("Hello World! zartuje, masz wirusa ;>");
+</script>
 </body>
 </html>
